@@ -1,0 +1,4 @@
+﻿  vote.cpp
+c:\users\hansol\source\repos\naver\naver\vote.cpp(46): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\hansol\source\repos\naver\naver\vote.cpp(74): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Naver.vcxproj -> C:\Users\Hansol\source\repos\Naver\Debug\Naver.exe
